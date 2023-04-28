@@ -37,7 +37,7 @@
 * Sarah Elliott, Bournemouth University
 * Carla Lancelotti/ cl379/ I sometimes find it not super user-friendly (I guess the terminology used is not always intuitive). Aslo, although it is version control and everything is registered, I am always afraid of doing something wrong and mess everything up :-)
 * Agustina Scaro, AguScaro, I find the programming aspect of GitHub challenging. 
-*
+* Daiana/ Dtalves20/ its kind of a new world, such a challenge!
 *
 *
 *
